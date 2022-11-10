@@ -3,7 +3,7 @@
 Este repositório reúne informações sobre o aprendizado da linguagem python.
 
 
-### Comandos básicos - Python
+### Comandos básicos 
 
 _ls_ - listar todas as pastas
 
