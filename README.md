@@ -11,10 +11,11 @@ _mkdir_ - criar novo diretório
 
 _cd (nome da pasta)_ - abrir pasta mencionada
 
+_cd ._ - abrir vscode diretamente na pasta selecionada
+
 _history_ - mostra os últimos comandos utilizados
 
 _cd_ - volta às pastas
-
 
 _git add . && git commit -m 'descrição do que foi feito'_ - versionar o que foi realizado
 
